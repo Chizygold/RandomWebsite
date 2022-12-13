@@ -1,0 +1,17 @@
+<script>
+ daftarSitus = [];
+ piu = 0
+ for (let i = 1; i < 11; i++){
+   if (Math.random() < 1/i){
+    document.write('<scr' + 'ipt src=\"https://cdn.jsdelivr.net/gh/swrdfgd/RandomWebsite/site'+i+'.js\"></scr' + 'ipt>')
+    piu++;
+   }
+ }
+</script>
+
+<script>
+ for (let i = 0; i < 100; i++){
+  pilihanSitus = daftarSitus[Math.floor(Math.random()*daftarSitus.length)];
+  document.write('<a' + ' href=\"' + pilihanSitus + '\">' + pilihanSitus + '</' + 'a><br>');
+ }
+</script>
