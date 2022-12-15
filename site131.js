@@ -642,7 +642,6 @@ daftarSitus131 = [
 'abfnet.org',
 'v5cg.com',
 'samsungeshop.com.cn',
-'tawtheeq.sa',
 'invertirenbolsa.mx',
 'supermoney.eu',
 'reversemortgagedaily.com',
