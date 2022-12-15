@@ -805,7 +805,6 @@ daftarSitus277 = [
 'lexusofseattle.com',
 'dragon4tech.com',
 'cheapairjordansshoessaleonline.com',
-'tahakom.com',
 'getmaintainx.com',
 'politichecomunitarie.it',
 'proximitynetwork.es',
