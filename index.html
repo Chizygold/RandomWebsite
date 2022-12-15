@@ -1,3 +1,100 @@
+
+<!DOCTYPE html>
+<head>
+<title>Random Website List</title>
+</head>
+
+<style>
+ @import url("https://fonts.googleapis.com/css?family=Rubik:700&display=swap");
+* {
+  box-sizing: border-box;
+}
+*::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  min-height: 100vh;
+  background: #c3efff;
+}
+
+button {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+  border: 0;
+  vertical-align: middle;
+  text-decoration: none;
+  font-size: inherit;
+  font-family: inherit;
+}
+button.learn-more {
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 1.25em 2em;
+  background: #a4cedf;
+  text-shadow: 0 0 4px black;
+  border: 2px solid #fff;
+  border-radius: 0.75em;
+  transform-style: preserve-3d;
+  transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), background 150ms cubic-bezier(0, 0, 0.58, 1);
+}
+button.learn-more::before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #a4cedf;
+  border-radius: inherit;
+  box-shadow: 0 0 0 2px #eef5f8, 0 0.625em 0 0 #b9ccd3;
+  transform: translate3d(0, 0.75em, -1em);
+  transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), box-shadow 150ms cubic-bezier(0, 0, 0.58, 1);
+}
+button.learn-more:hover {
+  background: #ae341a;
+  transform: translate(0, 0.25em);
+}
+button.learn-more:hover::before {
+  box-shadow: 0 0 0 2px #eef5f8, 0 0.5em 0 0 #b9ccd3;
+  transform: translate3d(0, 0.5em, -1em);
+}
+button.learn-more:active {
+  background: #ffe9e9;
+  transform: translate(0em, 0.75em);
+}
+button.learn-more:active::before {
+  box-shadow: 0 0 0 2px #eef5f8, 0 0 #b9ccd3;
+  transform: translate3d(0, 0, -1em);
+}
+</style>
+
+<body>
+
+<script>
+//fungsi warna random------------------------------------------------------------------------------
+function getRandomColor() {
+  var lettersz = '0123456789abcdef';
+  var colorz = '#';
+  for (var i = 0; i < 6; i++) {
+    colorz += lettersz[Math.floor(Math.random() * 16)];
+  }
+  return colorz;
+}
+//------------------------------------------------------------------------------------------------
+</script>
+
 <script>
  daftarSitus = [];
  piu = 0;
@@ -11,8 +108,25 @@
 </script>
 
 <script>
+ document.write('<div style="float: left;">');
  for (let i = 0; i < 100; i++){
   pilihanSitus = daftarSitus[Math.floor(Math.random()*daftarSitus.length)];
-  document.write('<a' + ' href=\"https://' + pilihanSitus + '\">' + pilihanSitus + '</' + 'a><br>');
+  document.write('<a' + ' target="_blank" href=\"https://' + pilihanSitus + '\"><button class="learn-more" style="background: '+getRandomColor()+';">' + pilihanSitus + '</button></' + 'a><br>');
  }
+ document.write('</div>');
 </script>
+
+
+<script>
+ document.write('<div style="float: right;">');
+ for (let i = 0; i < 100; i++){
+  pilihanSitus = daftarSitus[Math.floor(Math.random()*daftarSitus.length)];
+  document.write('<div style="display: flex; justify-content: flex-end;"><a' + ' target="_blank" href=\"https://' + pilihanSitus + '\"><button style="background: '+getRandomColor()+';" class="learn-more" style="background: '+getRandomColor()+';">' + pilihanSitus + '</button></' + 'a></div>');
+ }
+ document.write('</div>');
+</script>
+
+
+
+</body>
+</html>
