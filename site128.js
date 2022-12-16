@@ -1387,7 +1387,6 @@ daftarSitus128 = [
 'toushin.or.jp',
 'iimv.ac.in',
 'yts.vc',
-'paysbig.com',
 'juneshine.com',
 'leafletstore.com',
 'daafoor.com',
