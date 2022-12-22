@@ -1907,7 +1907,6 @@ daftarSitus44 = [
 'jpopsuki.eu',
 'lacoctelera.com',
 '0797yx.com',
-'mdsol.com',
 'ipsen.com',
 'motoringresearch.com',
 'nlg.gr',
