@@ -897,7 +897,7 @@ daftarSitus1162 = [
 'wattchina.com',
 'mydailyplanners.com',
 'diamondproducts.in',
-'injectapp.org',
+
 'summitsport.com.au',
 'ivanovpartners.com',
 'amgkwt.com',
