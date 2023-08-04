@@ -2238,5 +2238,6 @@ daftarSitus1 = [
 'sentry.io',
   
 'roadmap.sh',
+'flukeout.github.io',
 ];
 daftarSitus = daftarSitus.concat(daftarSitus1);
