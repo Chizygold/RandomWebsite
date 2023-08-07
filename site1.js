@@ -2239,5 +2239,6 @@ daftarSitus1 = [
   
 'roadmap.sh',
 'flukeout.github.io',
+'blog.shahjalalshohag.com',
 ];
 daftarSitus = daftarSitus.concat(daftarSitus1);
