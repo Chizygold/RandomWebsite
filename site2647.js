@@ -1392,7 +1392,7 @@ daftarSitus2647 = [
 'triangleaptassn.org',
 'bucateks.com',
 'thefunwarehouse.co.nz',
-'tkilac.com',
+
 'simpleorientedarchitecture.com',
 'akbayticaret.com.tr',
 'thefuture.com.tr',
