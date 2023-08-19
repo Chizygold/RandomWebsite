@@ -597,7 +597,7 @@ daftarSitus993 = [
 'amkhub.com.sg',
 'bioactivenutrients.com',
 'dokz.site',
-'worldmedicine.com.tr',
+
 'wellthytherapeutics.com',
 'cardboardedison.com',
 'allenbridgeis.com',
