@@ -2240,6 +2240,7 @@ daftarSitus1 = [
 'roadmap.sh',
 'flukeout.github.io',
 'blog.shahjalalshohag.com',
-'home-cicd.vercel.app'
+'home-cicd.vercel.app',
+'a2oj.netlify.app',
 ];
 daftarSitus = daftarSitus.concat(daftarSitus1);
