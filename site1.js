@@ -2242,5 +2242,6 @@ daftarSitus1 = [
 'blog.shahjalalshohag.com',
 'home-cicd.vercel.app',
 'a2oj.netlify.app',
+'codetiger.me',
 ];
 daftarSitus = daftarSitus.concat(daftarSitus1);
