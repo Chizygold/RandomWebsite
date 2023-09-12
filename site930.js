@@ -1658,7 +1658,7 @@ daftarSitus930 = [
 'audacity.co.in',
 'openzfsonosx.org',
 'sozoartists.com',
-'grupopetersen.com.ar',
+
 'zihaan.com',
 'game-stavca24.com',
 'canaktan.org',
