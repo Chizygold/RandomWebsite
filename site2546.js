@@ -108,7 +108,7 @@ daftarSitus2546 = [
 'flemox.ru',
 'nlhsneakers.vn',
 'alloymetalsco.com',
-'bluecubetravel.co.uk',
+
 'vidmewt.net',
 'mpool.biz',
 'xosb.ru',
