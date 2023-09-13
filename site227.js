@@ -185,7 +185,7 @@ daftarSitus227 = [
 'integradasensalud.com',
 'mamaknowsitall.com',
 'rfeinc.com',
-'asjservicios.com.ar',
+
 'tradeplace.com',
 'preserve.us',
 'housefabric.com',
