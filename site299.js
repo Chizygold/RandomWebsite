@@ -356,7 +356,7 @@ daftarSitus299 = [
 'addprotein.com',
 'implanthelp.ru',
 'intercompetition.com',
-'pluspagos.com',
+
 'dietarious.com',
 'designdeck.co.uk',
 'kruse-preuss.de',
