@@ -340,7 +340,7 @@ daftarSitus369a = [
 "smetoolkit.ng",
 "up1do7x.tech",
 "maritz.net",
-"fincomercio.com",
+
 "fecalface.com",
 "ob-havo.com",
 "physanth.org",
