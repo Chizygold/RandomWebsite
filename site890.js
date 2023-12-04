@@ -1155,7 +1155,7 @@ daftarSitus890 = [
 'cosmoanddonato.com',
 'plus-plus.com',
 'serverlessnotes.com',
-'activityinfo.org',
+
 'gafco.net',
 'binasaz.com',
 'amcasia.co.kr',
