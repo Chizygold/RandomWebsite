@@ -22,7 +22,7 @@ daftarSitus1032 = [
 'canoncitypropertymgmt.com',
 'aerobiccapacity.com',
 'uzmapaintco.com',
-'pintys.com',
+
 'dqwjpdaiggotecewwtinn.to',
 'lchcnet.org',
 'kalbejimotemos.lt',
