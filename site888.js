@@ -437,7 +437,7 @@ daftarSitus888 = [
 'simmetria.net',
 'tfrcomic.com',
 'nesstoy.com',
-'olymel.com',
+
 'thebizseminar.com',
 'wholewellnesspt.com',
 'onlien.store',
