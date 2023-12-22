@@ -2160,7 +2160,7 @@ daftarSitus1036 = [
 'drbitcoinve.com',
 'sequentlearning.com',
 'dbaparadise.com',
-'olymel.ca',
+
 'bxhmhfhrbtsxt.to',
 'digimantra.com',
 'akbidhipekalongan.ac.id',
