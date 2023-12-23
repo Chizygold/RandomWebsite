@@ -1499,7 +1499,7 @@ daftarSitus715a = [
 "290996a.com",
 "29999y.com",
 "29cc.xyz",
-"2access.co",
+
 "2ba.nl",
 "2bob.co.za",
 "2c15c618900997a6b8fa1092a38674cc63324950.xyz",
