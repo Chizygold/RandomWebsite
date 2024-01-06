@@ -529,7 +529,7 @@ daftarSitus1183 = [
 'aaronsfinefurniture.com',
 'nplanner.ru',
 'travelwithassad.com',
-'ayccolanta.coop',
+
 'awtilolemed.ga',
 'djprayag.com',
 'englishtestexercises.com',
