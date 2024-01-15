@@ -207,7 +207,7 @@ daftarSitus709a = [
 "brasthingut.com",
 "unyco.net",
 "spravki24.pw",
-"handcrafted.solutions",
+"haafted.solutions",
 "renzy.in",
 "dynamicode.com",
 "speed-up.pl",
